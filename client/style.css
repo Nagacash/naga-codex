@@ -200,3 +200,10 @@ padding: 40px;
   align-items: center;
 }
 
+a:hover {
+  color: #f7f3f6;
+  text-shadow: 0 0 2px #e9e4e4;
+}
+
+
+
