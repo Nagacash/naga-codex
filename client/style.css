@@ -181,7 +181,9 @@ form img {
 }
 
 .head4 {
- 
+  display: inline;
+  border-bottom: 3px solid #f9dd94;
+  text-decoration: none;
 
   display: flex;
 padding: 40px;
@@ -197,3 +199,4 @@ padding: 40px;
   display: flex;
   align-items: center;
 }
+
