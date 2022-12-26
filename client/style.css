@@ -150,13 +150,12 @@ form img {
 }
 
 .head {
-  padding: 20px;
+  padding: 10px;
 
   display: flex;
-  bottom: 20px;
   text-align: right;
   flex: 0 0 auto;
-  height: 100px;
+  height: 50px;
   width: auto;
   color: #dcdcdc;
 }
@@ -164,23 +163,19 @@ form img {
 .head2 {
 
   display: flex;
-  bottom: 20px;
   text-align: center;
   flex: 0 0 auto;
-  height: 100px;
+  height: 50px;
   width: auto;
   color: #dcdcdc;
 }
 
 .head3 {
   display: flex;
-  top: -10px;
   text-align: center;
   flex: 0 0 auto;
-  height: 100px; 
-  padding: 70px;
+  height: 70px; 
   
-  position: fixed;
   width: auto;
   color: #e71111;
 }
@@ -189,13 +184,11 @@ form img {
  
 
   display: flex;
-
-  top: 140px;
+padding: 30px;
   text-align: center;
   flex: 0 0 auto;
-  height: 100px;
+  height: 50px;
   width: auto;
-  position: fixed;
 
   color: #dcdcdc;
 }
