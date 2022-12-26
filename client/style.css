@@ -148,3 +148,59 @@ form img {
   width: 30px;
   height: 30px;
 }
+
+.head {
+  padding: 20px;
+
+  display: flex;
+  bottom: 20px;
+  text-align: right;
+  flex: 0 0 auto;
+  height: 100px;
+  width: auto;
+  color: #dcdcdc;
+}
+
+.head2 {
+
+  display: flex;
+  bottom: 20px;
+  text-align: center;
+  flex: 0 0 auto;
+  height: 100px;
+  width: auto;
+  color: #dcdcdc;
+}
+
+.head3 {
+  display: flex;
+  top: -10px;
+  text-align: center;
+  flex: 0 0 auto;
+  height: 100px; 
+  padding: 70px;
+  
+  position: fixed;
+  width: auto;
+  color: #e71111;
+}
+
+.head4 {
+ 
+
+  display: flex;
+
+  top: 140px;
+  text-align: center;
+  flex: 0 0 auto;
+  height: 100px;
+  width: auto;
+  position: fixed;
+
+  color: #dcdcdc;
+}
+
+.badge {
+  display: flex;
+  align-items: center;
+}
